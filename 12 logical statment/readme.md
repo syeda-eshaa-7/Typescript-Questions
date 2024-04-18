@@ -8,7 +8,7 @@ if (temperature > 30) {
     console.log("It's not too hot outside.");
 }
 ## answare:
-
+else will run
 
 
 ## Task 2:
@@ -21,6 +21,7 @@ if (number % 2 === 0) {
     console.log("The number is odd.");
 }
 ## answare:
+else will run
 
 
 
@@ -34,7 +35,7 @@ if (score >= 60) {
     console.log("You failed the exam.");
 }
 ## answare:
-
+if will run
 
 
 ## Task 4:
@@ -49,7 +50,7 @@ if (value > 0) {
     console.log("The number is zero.");
 }
 ## answare:
-
+else if will run
 
 
 ## Task 5:
@@ -62,7 +63,7 @@ if (age >= 18) {
     console.log("You are not eligible to vote yet.");
 }
 ## answare:
-
+else will run
 
 
 ## Task 6:
@@ -75,3 +76,4 @@ if (password.length >= 8) {
     console.log("Password is too short.");
 }
 ## answare:
+else will run
